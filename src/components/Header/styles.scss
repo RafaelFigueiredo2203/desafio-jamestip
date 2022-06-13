@@ -1,0 +1,25 @@
+a{
+  text-decoration: none;
+  width: 102px;
+  margin-left:50px;
+  text-align: center;
+
+  span{
+      
+     
+      font-family: 'Poppins';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 30px;
+      /* identical to box height */
+
+
+      color: #D7D7D7;
+  }
+ 
+}
+a:hover{
+  border-bottom: 2px solid #00D0B5 ;
+
+}
