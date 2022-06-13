@@ -39,7 +39,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Este projeto é um desafio para o processo seletivo muito massa para a vaga de Dev Front-End da [James Tip](https://jamestip.com/?gclid=CjwKCAjwnZaVBhA6EiwAVVyv9AcITyq3ieXcwszT5ZjdTtlakeb4iMju2U7uPQZZvEkOnBABJDvN0xoCdfIQAvD_BwE).
 Faltou terminar a parte de editar produtos e responsividade, por falta de tempo no meu dia a dia não consegui terminar esses dois requisitos mas gostei muito da experiência adquirida!! 
 
+## 🔖 Layout
 
+Você pode visualizar o layout do projeto através do link abaixo:
+
+- [Layout Web](https://www.figma.com/file/JNmTIG4L0Db9ZqC6XxUr4i/desafio-jamestip?node-id=0%3A1)
 
 ## 🚀 Como executar
 
